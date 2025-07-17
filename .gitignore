@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.env
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Allure report
+report/
+reports/
+allure-report/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Misc
+*.sqlite3
+*.db
+.idea/
