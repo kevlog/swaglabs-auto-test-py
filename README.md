@@ -76,8 +76,10 @@ allure serve report/
 
 ## 📹 Video & Repository
 
-* Video: \[Google Drive/YouTube Link]
-* Repository: \[GitHub/GitLab Link]
+* Video: [YouTube Link](https://www.youtube.com/watch?v=KWv5qShYTng)
+  *🕒 Tersedia mulai 18 Juli 2025 pukul 19.00 WIB*
+  
+* Repository: [GitHub Link](https://github.com/kevlog/swaglabs-auto-test-py)
 
 ---
 
